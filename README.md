@@ -55,4 +55,4 @@ This project is open-sourced under the [MIT](LICENSE).
 ## Contact
 ## Contact
 
-📫 For queries, reach out at: [anuragchougule010@gmail.com](mailto:anuragchougule010@gmail.com)
+📫 For queries, reach out at: [anuragchougule0160@gmail.com](mailto:anuragchougule0160@gmail.com)
