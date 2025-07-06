@@ -53,4 +53,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is open-sourced under the [MIT](LICENSE).
 
 ## Contact
-📧 For queries, reach out at: [anuragchougule0160gmail.com](email)
+## Contact
+
+📫 For queries, reach out at: [anuragchougule010@gmail.com](mailto:anuragchougule010@gmail.com)
