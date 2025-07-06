@@ -50,4 +50,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](LICENSE)
+This project is open-sourced under the [MIT](LICENSE).
+
+
+📧 For queries, reach out at: [anuragchougule0160gmail.com]
