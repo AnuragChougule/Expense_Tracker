@@ -52,7 +52,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This project is open-sourced under the [MIT](LICENSE).
 
-## Contact
+
 ## Contact
 
 📫 For queries, reach out at: [anuragchougule0160@gmail.com](mailto:anuragchougule0160@gmail.com)
