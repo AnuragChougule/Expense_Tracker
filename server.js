@@ -14,12 +14,11 @@
     app.use(express.static(path.join(__dirname, 'public')));
 
     // Connect to MongoDB
-  mongoose.connect(MONGO_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-})
-
-
+ mongoose
+        .connect('mongodb://127.0.0.1:27017/expense_tracker', {
+            useNewUrlParser: true,
+            useUnifiedTopology: true,
+        })
         .then(() => console.log('Connected to MongoDB'))
         .catch((err) => console.error('Error connecting to MongoDB:', err));
 
